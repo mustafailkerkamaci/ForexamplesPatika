@@ -1,0 +1,15 @@
+C:\Users\musta\source\repos\ForExamples\ForExamples\bin\Debug\net8.0\ForExamples.exe
+C:\Users\musta\source\repos\ForExamples\ForExamples\bin\Debug\net8.0\ForExamples.deps.json
+C:\Users\musta\source\repos\ForExamples\ForExamples\bin\Debug\net8.0\ForExamples.runtimeconfig.json
+C:\Users\musta\source\repos\ForExamples\ForExamples\bin\Debug\net8.0\ForExamples.dll
+C:\Users\musta\source\repos\ForExamples\ForExamples\bin\Debug\net8.0\ForExamples.pdb
+C:\Users\musta\source\repos\ForExamples\ForExamples\obj\Debug\net8.0\ForExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\source\repos\ForExamples\ForExamples\obj\Debug\net8.0\ForExamples.AssemblyInfoInputs.cache
+C:\Users\musta\source\repos\ForExamples\ForExamples\obj\Debug\net8.0\ForExamples.AssemblyInfo.cs
+C:\Users\musta\source\repos\ForExamples\ForExamples\obj\Debug\net8.0\ForExamples.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\ForExamples\ForExamples\obj\Debug\net8.0\ForExamples.sourcelink.json
+C:\Users\musta\source\repos\ForExamples\ForExamples\obj\Debug\net8.0\ForExamples.dll
+C:\Users\musta\source\repos\ForExamples\ForExamples\obj\Debug\net8.0\refint\ForExamples.dll
+C:\Users\musta\source\repos\ForExamples\ForExamples\obj\Debug\net8.0\ForExamples.pdb
+C:\Users\musta\source\repos\ForExamples\ForExamples\obj\Debug\net8.0\ForExamples.genruntimeconfig.cache
+C:\Users\musta\source\repos\ForExamples\ForExamples\obj\Debug\net8.0\ref\ForExamples.dll
